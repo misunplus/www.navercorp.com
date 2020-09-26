@@ -1,0 +1,7 @@
+sass --watch -E UTF-8 stylePc.scss:stylePc.css --style compact
+sass --watch -E UTF-8 styleM.scss:styleM.css --style compact
+
+
+https://kararico.tistory.com/54  
+모바일 슬라이드 드레그
+
